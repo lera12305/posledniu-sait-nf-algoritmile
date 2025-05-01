@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    color: white;
+}
+
+h1 {
+    background-color: pink;
+}
+  
+ul li {
+    color: black;
+
+}
+
+.link-header {
+    color: pink
+}
+
+ul li:hover {
+color: pink;
+font-size: 40px;
+}
+
+p {
+    color: pink;
+}
+
+p a { 
+    color: pink;
+}
+
+p a:hover {
+    font-size: 40px
+}
